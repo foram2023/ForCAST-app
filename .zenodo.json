@@ -1,0 +1,28 @@
+{
+  "title": "ForCAST",
+  "version": "1.0",
+  "license": "mit",
+  "upload_type": "Application",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Subba, Rohan",
+      "orcid": "0000-0001-5159-7239",
+      "affiliation": "Department of Geological Sciences, Jadavpur University, 188, Raja S.C. Mallick Road, Jadavpur, Kolkata, 700032, West Bengal, India",
+      "type": "Developer"
+    },
+    {
+      "name": "[Anupam Ghosh]",
+      "affiliation": "[Department of Geological Sciences, Jadavpur University, 188, Raja S.C. Mallick Road, Jadavpur, Kolkata, 700032, West Bengal, India]"
+    },
+    {
+      "name": "[Akira Tsujimoto]",
+      "affiliation": "[Faculty of Education, Shimane University, 1060 Nishikawatsu-cho, Matsue-shi, 690-8504, Shimane, Japan]"
+    },
+    {
+      "name": "[Punyasloke Bhadury]",
+      "affiliation": "[Integrative Taxonomy and Microbial Ecology Research Group, Department of Biological Sciences, Indian Institute of Science Education and Research Kolkata, Mohanpur, Nadia, 741246, West Bengal, India]"
+    }
+  ],
+  "keywords": ["computer science", "models"]
+}
