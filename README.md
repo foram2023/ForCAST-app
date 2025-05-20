@@ -7,3 +7,5 @@ Visualize and select key features for your model.
 Train machine learning models using RFR and SVR.
 Generate predictions based on your trained models.
 Download the predicted data as an Excel file.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15469369.svg)](https://doi.org/10.5281/zenodo.15469369)
